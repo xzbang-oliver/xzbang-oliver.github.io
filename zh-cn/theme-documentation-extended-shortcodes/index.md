@@ -24,17 +24,8 @@ Hugo **extended** 版本对于 `style` shortcode 是必需的.
 
 一个 `style` 示例:
 
-```markdown
-{{</* style "text-align:right; strong{color:#00b1ff;}" */>}}
-This is a **right-aligned** paragraph.
-{{</* /style */>}}
-```
-
 呈现的输出效果如下:
 
-{{< style "text-align:right; strong{color:#00b1ff;}" >}}
-This is a **right-aligned** paragraph.
-{{< /style >}}
 
 ## 2 link
 
@@ -71,20 +62,6 @@ This is a **right-aligned** paragraph.
 
 一个 `link` 示例:
 
-```markdown
-{{</* link "https://assemble.io" */>}}
-或者
-{{</* link href="https://assemble.io" */>}}
-
-{{</* link "mailto:contact@revolunet.com" */>}}
-或者
-{{</* link href="mailto:contact@revolunet.com" */>}}
-
-{{</* link "https://assemble.io" Assemble */>}}
-或者
-{{</* link href="https://assemble.io" content=Assemble */>}}
-```
-
 呈现的输出效果如下:
 
 * {{< link "https://assemble.io" >}}
@@ -92,12 +69,6 @@ This is a **right-aligned** paragraph.
 * {{< link "https://assemble.io" Assemble >}}
 
 一个带有标题的 `link` 示例:
-
-```markdown
-{{</* link "https://github.com/upstage/" Upstage "Visit Upstage!" */>}}
-或者
-{{</* link href="https://github.com/upstage/" content=Upstage title="Visit Upstage!" */>}}
-```
 
 呈现的输出效果如下 (将鼠标悬停在链接上，会有一行提示):
 
@@ -163,9 +134,6 @@ This is a **right-aligned** paragraph.
 
 一个 `image` 示例:
 
-```markdown
-{{</* image src="/images/lighthouse.jpg" caption="Lighthouse (`image`)" src_s="/images/lighthouse-small.jpg" src_l="/images/lighthouse-large.jpg" */>}}
-```
 
 呈现的输出效果如下:
 
@@ -241,16 +209,6 @@ This is a **right-aligned** paragraph.
 
 一个 `admonition` 示例:
 
-```markdown
-{{</* admonition type=tip title="This is a tip" open=false */>}}
-一个 **技巧** 横幅
-{{</* /admonition */>}}
-或者
-{{</* admonition tip "This is a tip" false */>}}
-一个 **技巧** 横幅
-{{</* /admonition */>}}
-```
-
 呈现的输出效果如下:
 
 {{< admonition tip "This is a tip" false >}}
@@ -310,11 +268,6 @@ This is a **right-aligned** paragraph.
 
 一个 `script` 示例:
 
-```markdown
-{{</* script */>}}
-console.log('Hello LoveIt!');
-{{</* /script */>}}
-```
 
 你可以在开发者工具的控制台中看到输出.
 
@@ -330,17 +283,6 @@ console.log('Hello LoveIt!');
 
 一个 `raw` 示例:
 
-```markdown
-行内公式: {{</* raw */>}}\(\mathbf{E}=\sum_{i} \mathbf{E}_{i}=\mathbf{E}_{1}+\mathbf{E}_{2}+\mathbf{E}_{3}+\cdots\){{</* /raw */>}}
-
-公式块:
-
-{{</* raw */>}}
-\[ a=b+c \\ d+e=f \]
-{{</* /raw */>}}
-
-原始的带有 Markdown 语法的内容: {{</* raw */>}}**Hello**{{</* /raw */>}}
-```
 
 呈现的输出效果如下:
 
