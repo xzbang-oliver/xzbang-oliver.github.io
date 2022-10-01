@@ -479,10 +479,6 @@ This is related to **[an issue for Hugo](https://github.com/gohugoio/hugo/issues
 
 Another example is:
 
-```markdown
-[link{{??}]}(#escape-character)
-```
-
 The rendered output looks like this:
 
 **[link{?]}(#escape-character)** instead of **[link](#escape-character)**.
