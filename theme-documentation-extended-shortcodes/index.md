@@ -25,12 +25,6 @@ And the **second** one is the tag name of the HTML element wrapping the content 
 
 Example `style` input:
 
-```markdown
-{{</* style "text-align:right; strong{color:#00b1ff;}" */>}}
-This is a **right-aligned** paragraph.
-{{</* /style */>}}
-```
-
 The rendered output looks like this:
 
 {{< style "text-align:right; strong{color:#00b1ff;}" >}}
@@ -71,19 +65,6 @@ The `link` shortcode has the following named parameters:
 
 Example `link` input:
 
-```markdown
-{{</* link "https://assemble.io" */>}}
-Or
-{{</* link href="https://assemble.io" */>}}
-
-{{</* link "mailto:contact@revolunet.com" */>}}
-Or
-{{</* link href="mailto:contact@revolunet.com" */>}}
-
-{{</* link "https://assemble.io" Assemble */>}}
-Or
-{{</* link href="https://assemble.io" content=Assemble */>}}
-```
 
 The rendered output looks like this:
 
@@ -93,11 +74,6 @@ The rendered output looks like this:
 
 Example `link` input with a title:
 
-```markdown
-{{</* link "https://github.com/upstage/" Upstage "Visit Upstage!" */>}}
-Or
-{{</* link href="https://github.com/upstage/" content=Upstage title="Visit Upstage!" */>}}
-```
 
 The rendered output looks like this (hover over the link, there should be a tooltip):
 
@@ -163,9 +139,6 @@ The `image` shortcode has the following named parameters:
 
 Example `image` input:
 
-```markdown
-{{</* image src="/images/lighthouse.jpg" caption="Lighthouse (`image`)" src_s="/images/lighthouse-small.jpg" src_l="/images/lighthouse-large.jpg" */>}}
-```
 
 The rendered output looks like this:
 
@@ -241,16 +214,6 @@ The `admonition` shortcode has the following named parameters:
 
 Example `admonition` input:
 
-```markdown
-{{</* admonition type=tip title="This is a tip" open=false */>}}
-A **tip** banner
-{{</* /admonition */>}}
-Or
-{{</* admonition tip "This is a tip" false */>}}
-A **tip** banner
-{{</* /admonition */>}}
-```
-
 The rendered output looks like this:
 
 {{< admonition tip "This is a tip" false >}}
@@ -308,12 +271,6 @@ The script content can be guaranteed to be executed in order after all third-par
 {{< /admonition >}}
 
 Example `script` input:
-
-```markdown
-{{</* script */>}}
-console.log('Hello LoveIt!');
-{{</* /script */>}}
-```
 
 You can see the output in the console of the developer tool.
 
