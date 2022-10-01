@@ -27,9 +27,6 @@ Example `style` input:
 
 The rendered output looks like this:
 
-{{< style "text-align:right; strong{color:#00b1ff;}" >}}
-This is a **right-aligned** paragraph.
-{{< /style >}}
 
 ## 2 link
 
@@ -286,18 +283,6 @@ console.log('Hello LoveIt!');
 This is useful when you want to include some Markdown content to **avoid being rendered or escaped** by Hugo.
 
 Example `raw` input:
-
-```markdown
-Inline Formula: {{</* raw */>}}\(\mathbf{E}=\sum_{i} \mathbf{E}_{i}=\mathbf{E}_{1}+\mathbf{E}_{2}+\mathbf{E}_{3}+\cdots\){{</* /raw */>}}
-
-Block Formula:
-
-{{</* raw */>}}
-\[ a=b+c \\ d+e=f \]
-{{</* /raw */>}}
-
-Raw content using Markdown syntax: {{</* raw */>}}**Hello**{{</* /raw */>}}
-```
 
 The rendered output looks like this:
 
