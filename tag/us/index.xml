@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>US | Zhibang Xu</title>
+    <title>US | Xu&#39;s Website</title>
     <link>https://example.com/tag/us/</link>
       <atom:link href="https://example.com/tag/us/index.xml" rel="self" type="application/rss+xml" />
     <description>US</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>US</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Assessment of urban land use efficiency in China</title>
-      <link>https://example.com/project/assessment-of-urban-land-use-efficiency/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/assessment-of-urban-land-use-efficiency/</guid>
+      <title>Application research on urban scaling</title>
+      <link>https://example.com/project/application-of-urban-scaling/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/application-of-urban-scaling/</guid>
       <description></description>
     </item>
     

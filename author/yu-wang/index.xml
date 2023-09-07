@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yu Wang | Xu&#39;s Website</title>
+    <link>https://example.com/author/yu-wang/</link>
+      <atom:link href="https://example.com/author/yu-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yu Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Yu Wang</title>
+      <link>https://example.com/author/yu-wang/</link>
+    </image>
+    
+    <item>
+      <title>Comparison of urban land expansion between urban physical and administrative areas in China from 1988 to 2018 (in Chinese)</title>
+      <link>https://example.com/publication/dlxb2022/</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dlxb2022/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
