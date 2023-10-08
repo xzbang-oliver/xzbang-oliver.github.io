@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ACUG | Zhibang Xu</title>
+    <link>https://xzbang.top/tag/acug/</link>
+      <atom:link href="https://xzbang.top/tag/acug/index.xml" rel="self" type="application/rss+xml" />
+    <description>ACUG</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 17 Sep 2023 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xzbang.top/media/icon_hu1891283c0db53db90cb1ff74b6b58309_3434_512x512_fill_lanczos_center_3.png</url>
+      <title>ACUG</title>
+      <link>https://xzbang.top/tag/acug/</link>
+    </image>
+    
+    <item>
+      <title>Oral presentation at the Chinese ACUG 2023</title>
+      <link>https://xzbang.top/event/oral0917/</link>
+      <pubDate>Sun, 17 Sep 2023 09:00:00 +0000</pubDate>
+      <guid>https://xzbang.top/event/oral0917/</guid>
+      <description>&lt;p&gt;We presented our research on urban land expansion in China over the past three decades. The main focus of the research is the difference in statistical cognition of urban expansion between the administrative unit perspective and the natural city perspective, involving the modifiable areal unit problem (MAUP) in geography. This work is helpful to deepen the understanding of the spatiotemporal process of China&amp;rsquo;s land urbanization and provide decision support for scientific land resource management.&lt;/p&gt;
+&lt;p&gt;
+   &lt;i class=&#34;fas fa-link  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;a href=&#34;https://xzbang.top/publication/dlxb2022/&#34;&gt;related article&lt;/a&gt;&lt;/p&gt;
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;figure  id=&#34;figure-during-the-oral-presentation&#34;&gt;
+   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;During the oral presentation&#34; srcset=&#34;
+                /media/ora0917_hu2649fb869c9fdc26ad06e7c6f1e7ca3e_3925008_62eb1cee87d5689c189861444f20def8.webp 400w,
+                /media/ora0917_hu2649fb869c9fdc26ad06e7c6f1e7ca3e_3925008_4efa58bfdd450477616859617feb1801.webp 760w,
+                /media/ora0917_hu2649fb869c9fdc26ad06e7c6f1e7ca3e_3925008_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+                src=&#34;https://xzbang.top/media/ora0917_hu2649fb869c9fdc26ad06e7c6f1e7ca3e_3925008_62eb1cee87d5689c189861444f20def8.webp&#34;
+                width=&#34;760&#34;
+                height=&#34;570&#34;
+                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+   &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+       During the oral presentation
+     &lt;/figcaption&gt;&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

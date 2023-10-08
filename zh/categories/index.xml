@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | Zhibang Xu</title>
+    <link>https://xzbang.top/zh/categories/</link>
+      <atom:link href="https://xzbang.top/zh/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://xzbang.top/media/icon_hu1891283c0db53db90cb1ff74b6b58309_3434_512x512_fill_lanczos_center_3.png</url>
+      <title>Categories</title>
+      <link>https://xzbang.top/zh/categories/</link>
+    </image>
+    
+  </channel>
+</rss>

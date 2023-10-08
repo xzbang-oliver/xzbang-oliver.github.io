@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Xu&#39;s Website</title>
-    <link>https://example.com/project/</link>
-      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <title>Projects | Zhibang Xu</title>
+    <link>https://xzbang.top/project/</link>
+      <atom:link href="https://xzbang.top/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1891283c0db53db90cb1ff74b6b58309_3434_512x512_fill_lanczos_center_3.png</url>
+      <url>https://xzbang.top/media/icon_hu1891283c0db53db90cb1ff74b6b58309_3434_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://example.com/project/</link>
+      <link>https://xzbang.top/project/</link>
     </image>
     
     <item>
       <title>Mapping urban boundaries for global urban settlements</title>
-      <link>https://example.com/project/mapping-urban-boundaries/</link>
+      <link>https://xzbang.top/project/mapping-urban-boundaries/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/mapping-urban-boundaries/</guid>
+      <guid>https://xzbang.top/project/mapping-urban-boundaries/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Application research on urban scaling</title>
-      <link>https://example.com/project/application-of-urban-scaling/</link>
+      <link>https://xzbang.top/project/application-of-urban-scaling/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/application-of-urban-scaling/</guid>
+      <guid>https://xzbang.top/project/application-of-urban-scaling/</guid>
       <description></description>
     </item>
     

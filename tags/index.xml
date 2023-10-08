@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Xu&#39;s Website</title>
-    <link>https://example.com/tags/</link>
-      <atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <title>Tags | Zhibang Xu</title>
+    <link>https://xzbang.top/tags/</link>
+      <atom:link href="https://xzbang.top/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 17 Sep 2023 09:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1891283c0db53db90cb1ff74b6b58309_3434_512x512_fill_lanczos_center_3.png</url>
+      <url>https://xzbang.top/media/icon_hu1891283c0db53db90cb1ff74b6b58309_3434_512x512_fill_lanczos_center_3.png</url>
       <title>Tags</title>
-      <link>https://example.com/tags/</link>
+      <link>https://xzbang.top/tags/</link>
     </image>
     
   </channel>

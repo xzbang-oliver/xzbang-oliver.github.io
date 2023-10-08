@@ -1,37 +1,65 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Xu&#39;s Website</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-    <description>Xu&#39;s Website</description>
+    <title>Zhibang Xu</title>
+    <link>https://xzbang.top/</link>
+      <atom:link href="https://xzbang.top/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhibang Xu</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1891283c0db53db90cb1ff74b6b58309_3434_512x512_fill_lanczos_center_3.png</url>
-      <title>Xu&#39;s Website</title>
-      <link>https://example.com/</link>
+      <url>https://xzbang.top/media/icon_hu1891283c0db53db90cb1ff74b6b58309_3434_512x512_fill_lanczos_center_3.png</url>
+      <title>Zhibang Xu</title>
+      <link>https://xzbang.top/</link>
     </image>
     
     <item>
-      <title>Example Event</title>
-      <link>https://example.com/event/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/event/example/</guid>
-      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+      <title>Oral presentation at the Chinese ACUG 2023</title>
+      <link>https://xzbang.top/event/oral0917/</link>
+      <pubDate>Sun, 17 Sep 2023 09:00:00 +0000</pubDate>
+      <guid>https://xzbang.top/event/oral0917/</guid>
+      <description>&lt;p&gt;We presented our research on urban land expansion in China over the past three decades. The main focus of the research is the difference in statistical cognition of urban expansion between the administrative unit perspective and the natural city perspective, involving the modifiable areal unit problem (MAUP) in geography. This work is helpful to deepen the understanding of the spatiotemporal process of China&amp;rsquo;s land urbanization and provide decision support for scientific land resource management.&lt;/p&gt;
+&lt;p&gt;
+   &lt;i class=&#34;fas fa-link  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;a href=&#34;https://xzbang.top/publication/dlxb2022/&#34;&gt;related article&lt;/a&gt;&lt;/p&gt;
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;figure  id=&#34;figure-during-the-oral-presentation&#34;&gt;
+   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;During the oral presentation&#34; srcset=&#34;
+                /media/ora0917_hu2649fb869c9fdc26ad06e7c6f1e7ca3e_3925008_62eb1cee87d5689c189861444f20def8.webp 400w,
+                /media/ora0917_hu2649fb869c9fdc26ad06e7c6f1e7ca3e_3925008_4efa58bfdd450477616859617feb1801.webp 760w,
+                /media/ora0917_hu2649fb869c9fdc26ad06e7c6f1e7ca3e_3925008_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+                src=&#34;https://xzbang.top/media/ora0917_hu2649fb869c9fdc26ad06e7c6f1e7ca3e_3925008_62eb1cee87d5689c189861444f20def8.webp&#34;
+                width=&#34;760&#34;
+                height=&#34;570&#34;
+                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+   &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+       During the oral presentation
+     &lt;/figcaption&gt;&lt;/figure&gt;
+
 </description>
     </item>
     
     <item>
       <title>Comparison of urban land expansion between urban physical and administrative areas in China from 1988 to 2018 (in Chinese)</title>
-      <link>https://example.com/publication/dlxb2022/</link>
+      <link>https://xzbang.top/publication/dlxb2022/</link>
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/dlxb2022/</guid>
+      <guid>https://xzbang.top/publication/dlxb2022/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -42,17 +70,17 @@
     
     <item>
       <title>Data &amp; Software</title>
-      <link>https://example.com/software/</link>
+      <link>https://xzbang.top/software/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/software/</guid>
+      <guid>https://xzbang.top/software/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mapping hierarchical urban boundaries for global urban settlements</title>
-      <link>https://example.com/publication/jag2021/</link>
+      <link>https://xzbang.top/publication/jag2021/</link>
       <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/jag2021/</guid>
+      <guid>https://xzbang.top/publication/jag2021/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -63,9 +91,9 @@
     
     <item>
       <title>Spatial Optimization of Mega-City Fire Stations Based on Multi-Source Geospatial Data: A Case Study in Beijing</title>
-      <link>https://example.com/publication/ijgi2021/</link>
+      <link>https://xzbang.top/publication/ijgi2021/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ijgi2021/</guid>
+      <guid>https://xzbang.top/publication/ijgi2021/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -76,9 +104,9 @@
     
     <item>
       <title>Scaling laws in intra-urban systems and over time at the district level in Shanghai, China</title>
-      <link>https://example.com/publication/pa2020/</link>
+      <link>https://xzbang.top/publication/pa2020/</link>
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/pa2020/</guid>
+      <guid>https://xzbang.top/publication/pa2020/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -89,9 +117,9 @@
     
     <item>
       <title>Assessment of urban land use efficiency in China: A perspective of scaling law</title>
-      <link>https://example.com/publication/hi2020/</link>
+      <link>https://xzbang.top/publication/hi2020/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hi2020/</guid>
+      <guid>https://xzbang.top/publication/hi2020/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -102,41 +130,41 @@
     
     <item>
       <title>Mapping urban boundaries for global urban settlements</title>
-      <link>https://example.com/project/mapping-urban-boundaries/</link>
+      <link>https://xzbang.top/project/mapping-urban-boundaries/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/mapping-urban-boundaries/</guid>
+      <guid>https://xzbang.top/project/mapping-urban-boundaries/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Application research on urban scaling</title>
-      <link>https://example.com/project/application-of-urban-scaling/</link>
+      <link>https://xzbang.top/project/application-of-urban-scaling/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/application-of-urban-scaling/</guid>
+      <guid>https://xzbang.top/project/application-of-urban-scaling/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/about/</link>
+      <link>https://xzbang.top/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/about/</guid>
+      <guid>https://xzbang.top/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/admin/config.yml</link>
+      <link>https://xzbang.top/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/admin/config.yml</guid>
+      <guid>https://xzbang.top/admin/config.yml</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>https://example.com/research/</link>
+      <link>https://xzbang.top/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/research/</guid>
+      <guid>https://xzbang.top/research/</guid>
       <description></description>
     </item>
     

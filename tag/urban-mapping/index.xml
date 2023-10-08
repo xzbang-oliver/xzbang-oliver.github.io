@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Urban Mapping | Xu&#39;s Website</title>
-    <link>https://example.com/tag/urban-mapping/</link>
-      <atom:link href="https://example.com/tag/urban-mapping/index.xml" rel="self" type="application/rss+xml" />
+    <title>Urban Mapping | Zhibang Xu</title>
+    <link>https://xzbang.top/tag/urban-mapping/</link>
+      <atom:link href="https://xzbang.top/tag/urban-mapping/index.xml" rel="self" type="application/rss+xml" />
     <description>Urban Mapping</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1891283c0db53db90cb1ff74b6b58309_3434_512x512_fill_lanczos_center_3.png</url>
+      <url>https://xzbang.top/media/icon_hu1891283c0db53db90cb1ff74b6b58309_3434_512x512_fill_lanczos_center_3.png</url>
       <title>Urban Mapping</title>
-      <link>https://example.com/tag/urban-mapping/</link>
+      <link>https://xzbang.top/tag/urban-mapping/</link>
     </image>
     
     <item>
       <title>Mapping hierarchical urban boundaries for global urban settlements</title>
-      <link>https://example.com/publication/jag2021/</link>
+      <link>https://xzbang.top/publication/jag2021/</link>
       <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/jag2021/</guid>
+      <guid>https://xzbang.top/publication/jag2021/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
