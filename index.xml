@@ -13,50 +13,20 @@
     </image>
     
     <item>
-      <title>Oral presentation at the Chinese ACUG 2023</title>
-      <link>https://xzbang.top/event/oral0917/</link>
-      <pubDate>Sun, 17 Sep 2023 09:00:00 +0000</pubDate>
-      <guid>https://xzbang.top/event/oral0917/</guid>
-      <description>&lt;p&gt;We presented our research on urban land expansion in China over the past three decades. The main focus of the research is the difference in statistical cognition of urban expansion between the administrative unit perspective and the natural city perspective, involving the modifiable areal unit problem (MAUP) in geography. This work is helpful to deepen the understanding of the spatiotemporal process of China&amp;rsquo;s land urbanization and provide decision support for scientific land resource management.&lt;/p&gt;
-&lt;p&gt;
-   &lt;i class=&#34;fas fa-link  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;a href=&#34;https://xzbang.top/publication/dlxb2022/&#34;&gt;related article&lt;/a&gt;&lt;/p&gt;
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;figure  id=&#34;figure-during-the-oral-presentation&#34;&gt;
-   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;During the oral presentation&#34; srcset=&#34;
-                /media/ora0917_hu2649fb869c9fdc26ad06e7c6f1e7ca3e_3925008_62eb1cee87d5689c189861444f20def8.webp 400w,
-                /media/ora0917_hu2649fb869c9fdc26ad06e7c6f1e7ca3e_3925008_4efa58bfdd450477616859617feb1801.webp 760w,
-                /media/ora0917_hu2649fb869c9fdc26ad06e7c6f1e7ca3e_3925008_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-                src=&#34;https://xzbang.top/media/ora0917_hu2649fb869c9fdc26ad06e7c6f1e7ca3e_3925008_62eb1cee87d5689c189861444f20def8.webp&#34;
-                width=&#34;760&#34;
-                height=&#34;570&#34;
-                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-   &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
-       During the oral presentation
-     &lt;/figcaption&gt;&lt;/figure&gt;
-
+      <title>Settlement scaling law reveals population-land tensions in 7000&#43; African urban agglomerations</title>
+      <link>https://xzbang.top/publication/hai2023/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://xzbang.top/publication/hai2023/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
     <item>
-      <title>Comparison of urban land expansion between urban physical and administrative areas in China from 1988 to 2018 (in Chinese)</title>
+      <title>1988—2018年中国城市实体地域与行政地域用地扩张对比</title>
       <link>https://xzbang.top/publication/dlxb2022/</link>
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://xzbang.top/publication/dlxb2022/</guid>
@@ -69,18 +39,23 @@
     </item>
     
     <item>
-      <title>Data &amp; Software</title>
-      <link>https://xzbang.top/software/</link>
-      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://xzbang.top/software/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Mapping hierarchical urban boundaries for global urban settlements</title>
       <link>https://xzbang.top/publication/jag2021/</link>
       <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://xzbang.top/publication/jag2021/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>标度律视角的城市效能测度及中国城市多维要素效能分析</title>
+      <link>https://xzbang.top/publication/dlyj2021/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://xzbang.top/publication/dlyj2021/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -99,6 +74,24 @@
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Global Hierarchical Urban Boundaries</title>
+      <link>https://xzbang.top/resourceclass/datasets/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://xzbang.top/resourceclass/datasets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban boundary dynamics</title>
+      <link>https://xzbang.top/project/global-urban-boundary/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://xzbang.top/project/global-urban-boundary/</guid>
+      <description>&lt;p&gt;Based on the concept of Urban agglomeration, we mapped the boundary dynamics of urban settlements around the world from 1988 to 2018.
+We also produced corresponding vector data set products.&lt;/p&gt;
 </description>
     </item>
     
@@ -129,19 +122,50 @@
     </item>
     
     <item>
-      <title>Mapping urban boundaries for global urban settlements</title>
-      <link>https://xzbang.top/project/mapping-urban-boundaries/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://xzbang.top/project/mapping-urban-boundaries/</guid>
+      <title>Systematic assessment of Urban land use efficiency</title>
+      <link>https://xzbang.top/project/uluesami/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://xzbang.top/project/uluesami/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Application research on urban scaling</title>
-      <link>https://xzbang.top/project/application-of-urban-scaling/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://xzbang.top/project/application-of-urban-scaling/</guid>
-      <description></description>
+      <title>基于POI数据的巨型城市消防站空间优化——以北京市五环内区域为例</title>
+      <link>https://xzbang.top/publication/pgs18/</link>
+      <pubDate>Sat, 28 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://xzbang.top/publication/pgs18/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>结合POI数据的道路自动选取方法</title>
+      <link>https://xzbang.top/publication/dqxx2018/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://xzbang.top/publication/dqxx2018/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>中国“淘宝村”的空间分布特征及驱动因素分析</title>
+      <link>https://xzbang.top/publication/jjdl17/</link>
+      <pubDate>Thu, 26 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://xzbang.top/publication/jjdl17/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -165,6 +189,14 @@
       <link>https://xzbang.top/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://xzbang.top/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resource</title>
+      <link>https://xzbang.top/resource/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xzbang.top/resource/</guid>
       <description></description>
     </item>
     

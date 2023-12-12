@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>孙立 | Zhibang Xu</title>
+    <link>https://xzbang.top/author/%E5%AD%99%E7%AB%8B/</link>
+      <atom:link href="https://xzbang.top/author/%E5%AD%99%E7%AB%8B/index.xml" rel="self" type="application/rss+xml" />
+    <description>孙立</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 28 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xzbang.top/media/icon_hu1891283c0db53db90cb1ff74b6b58309_3434_512x512_fill_lanczos_center_3.png</url>
+      <title>孙立</title>
+      <link>https://xzbang.top/author/%E5%AD%99%E7%AB%8B/</link>
+    </image>
+    
+    <item>
+      <title>基于POI数据的巨型城市消防站空间优化——以北京市五环内区域为例</title>
+      <link>https://xzbang.top/publication/pgs18/</link>
+      <pubDate>Sat, 28 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://xzbang.top/publication/pgs18/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>结合POI数据的道路自动选取方法</title>
+      <link>https://xzbang.top/publication/dqxx2018/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://xzbang.top/publication/dqxx2018/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

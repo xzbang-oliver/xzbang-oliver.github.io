@@ -13,22 +13,20 @@
     </image>
     
     <item>
-      <title>Example Event</title>
-      <link>https://xzbang.top/zh/event/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://xzbang.top/zh/event/example/</guid>
-      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+      <title>Settlement scaling law reveals population-land tensions in 7000&#43; African urban agglomerations</title>
+      <link>https://xzbang.top/zh/publication/hai2023/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://xzbang.top/zh/publication/hai2023/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
     <item>
-      <title>Comparison of urban land expansion between urban physical and administrative areas in China from 1988 to 2018 (in Chinese)</title>
+      <title>1988—2018年中国城市实体地域与行政地域用地扩张对比</title>
       <link>https://xzbang.top/zh/publication/dlxb2022/</link>
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://xzbang.top/zh/publication/dlxb2022/</guid>
@@ -41,18 +39,23 @@
     </item>
     
     <item>
-      <title>Data &amp; Software</title>
-      <link>https://xzbang.top/zh/software/</link>
-      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://xzbang.top/zh/software/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Mapping hierarchical urban boundaries for global urban settlements</title>
       <link>https://xzbang.top/zh/publication/jag2021/</link>
       <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://xzbang.top/zh/publication/jag2021/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>标度律视角的城市效能测度及中国城市多维要素效能分析</title>
+      <link>https://xzbang.top/zh/publication/dlyj2021/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://xzbang.top/zh/publication/dlyj2021/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -101,19 +104,42 @@
     </item>
     
     <item>
-      <title>Mapping urban boundaries for global urban settlements</title>
-      <link>https://xzbang.top/zh/project/mapping-urban-boundaries/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://xzbang.top/zh/project/mapping-urban-boundaries/</guid>
-      <description></description>
+      <title>基于POI数据的巨型城市消防站空间优化——以北京市五环内区域为例</title>
+      <link>https://xzbang.top/zh/publication/pgs18/</link>
+      <pubDate>Sat, 28 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://xzbang.top/zh/publication/pgs18/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
-      <title>Application research on urban scaling</title>
-      <link>https://xzbang.top/zh/project/application-of-urban-scaling/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://xzbang.top/zh/project/application-of-urban-scaling/</guid>
-      <description></description>
+      <title>结合POI数据的道路自动选取方法</title>
+      <link>https://xzbang.top/zh/publication/dqxx2018/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://xzbang.top/zh/publication/dqxx2018/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>中国“淘宝村”的空间分布特征及驱动因素分析</title>
+      <link>https://xzbang.top/zh/publication/jjdl17/</link>
+      <pubDate>Thu, 26 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://xzbang.top/zh/publication/jjdl17/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -137,6 +163,14 @@
       <link>https://xzbang.top/zh/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://xzbang.top/zh/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resource</title>
+      <link>https://xzbang.top/zh/resource/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xzbang.top/zh/resource/</guid>
       <description></description>
     </item>
     
