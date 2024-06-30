@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://xzbang.top/publication-type/2/</loc>
-    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -17,7 +17,7 @@
                 />
   </url><url>
     <loc>https://xzbang.top/authors/</loc>
-    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -28,6 +28,168 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://xzbang.top/authors/"
+                />
+  </url><url>
+    <loc>https://xzbang.top/tag/complex-systems-of-cities/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://xzbang.top/author/cuiping-wang/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://xzbang.top/zh/author/cuiping-wang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://xzbang.top/author/cuiping-wang/"
+                />
+  </url><url>
+    <loc>https://xzbang.top/author/haowei-wang/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://xzbang.top/zh/author/haowei-wang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://xzbang.top/author/haowei-wang/"
+                />
+  </url><url>
+    <loc>https://xzbang.top/publication_types/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://xzbang.top/zh/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://xzbang.top/publication_types/"
+                />
+  </url><url>
+    <loc>https://xzbang.top/publication/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://xzbang.top/zh/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://xzbang.top/publication/"
+                />
+  </url><url>
+    <loc>https://xzbang.top/tags/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://xzbang.top/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://xzbang.top/tags/"
+                />
+  </url><url>
+    <loc>https://xzbang.top/author/ting-lan/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://xzbang.top/zh/author/ting-lan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://xzbang.top/author/ting-lan/"
+                />
+  </url><url>
+    <loc>https://xzbang.top/publication/sr2024/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://xzbang.top/zh/publication/sr2024/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://xzbang.top/publication/sr2024/"
+                />
+  </url><url>
+    <loc>https://xzbang.top/tag/urban-dynamics/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://xzbang.top/author/xiaoqi-duan/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://xzbang.top/zh/author/xiaoqi-duan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://xzbang.top/author/xiaoqi-duan/"
+                />
+  </url><url>
+    <loc>https://xzbang.top/author/yang-zhong/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://xzbang.top/zh/author/yang-zhong/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://xzbang.top/author/yang-zhong/"
+                />
+  </url><url>
+    <loc>https://xzbang.top/author/yashi-wu/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://xzbang.top/zh/author/yashi-wu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://xzbang.top/author/yashi-wu/"
+                />
+  </url><url>
+    <loc>https://xzbang.top/author/zhibang-xu/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://xzbang.top/zh/author/zhibang-xu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://xzbang.top/author/zhibang-xu/"
                 />
   </url><url>
     <loc>https://xzbang.top/author/bin-chen/</loc>
@@ -43,10 +205,6 @@
                 hreflang="en-us"
                 href="https://xzbang.top/author/bin-chen/"
                 />
-  </url><url>
-    <loc>https://xzbang.top/tag/complex-systems-of-cities/</loc>
-    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://xzbang.top/author/gang-xu/</loc>
     <lastmod>2023-10-31T00:00:00+00:00</lastmod>
@@ -118,34 +276,6 @@
                 href="https://xzbang.top/author/peng-gong/"
                 />
   </url><url>
-    <loc>https://xzbang.top/publication_types/</loc>
-    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://xzbang.top/zh/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://xzbang.top/publication_types/"
-                />
-  </url><url>
-    <loc>https://xzbang.top/publication/</loc>
-    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://xzbang.top/zh/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://xzbang.top/publication/"
-                />
-  </url><url>
     <loc>https://xzbang.top/publication/hai2023/</loc>
     <lastmod>2023-10-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -160,20 +290,6 @@
                 href="https://xzbang.top/publication/hai2023/"
                 />
   </url><url>
-    <loc>https://xzbang.top/tags/</loc>
-    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://xzbang.top/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://xzbang.top/tags/"
-                />
-  </url><url>
     <loc>https://xzbang.top/author/xuecao-li/</loc>
     <lastmod>2023-10-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -186,20 +302,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://xzbang.top/author/xuecao-li/"
-                />
-  </url><url>
-    <loc>https://xzbang.top/author/zhibang-xu/</loc>
-    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://xzbang.top/zh/author/zhibang-xu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://xzbang.top/author/zhibang-xu/"
                 />
   </url><url>
     <loc>https://xzbang.top/publication/ijde2023/</loc>
@@ -218,15 +320,7 @@
     <lastmod>2023-10-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://xzbang.top/tag/urban-dynamics/</loc>
-    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://xzbang.top/author/wangshu-wang/</loc>
-    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://xzbang.top/author/xiaoqi-duan/</loc>
     <lastmod>2023-10-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -249,20 +343,6 @@
     <loc>https://xzbang.top/author/lina-tang/</loc>
     <lastmod>2023-02-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://xzbang.top/author/ting-lan/</loc>
-    <lastmod>2023-02-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://xzbang.top/zh/author/ting-lan/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://xzbang.top/author/ting-lan/"
-                />
   </url><url>
     <loc>https://xzbang.top/publication/scs2022/</loc>
     <lastmod>2022-11-01T00:00:00+00:00</lastmod>
