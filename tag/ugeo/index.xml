@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UGeo | Zhibang Xu</title>
+    <link>https://xzbang.top/tag/ugeo/</link>
+      <atom:link href="https://xzbang.top/tag/ugeo/index.xml" rel="self" type="application/rss+xml" />
+    <description>UGeo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xzbang.top/media/icon_hu1891283c0db53db90cb1ff74b6b58309_3434_512x512_fill_lanczos_center_3.png</url>
+      <title>UGeo</title>
+      <link>https://xzbang.top/tag/ugeo/</link>
+    </image>
+    
+    <item>
+      <title>Urban Expansion from a Network Perspective</title>
+      <link>https://xzbang.top/projects/uenp2023/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://xzbang.top/projects/uenp2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban Expansion under Shrinking Population</title>
+      <link>https://xzbang.top/projects/uesp2023/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://xzbang.top/projects/uesp2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

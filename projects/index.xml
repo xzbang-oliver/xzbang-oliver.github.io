@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Zhibang Xu</title>
+    <link>https://xzbang.top/projects/</link>
+      <atom:link href="https://xzbang.top/projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 31 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xzbang.top/media/icon_hu1891283c0db53db90cb1ff74b6b58309_3434_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://xzbang.top/projects/</link>
+    </image>
+    
+    <item>
+      <title>Urban Green Space Utilization</title>
+      <link>https://xzbang.top/projects/ugsu2025/</link>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://xzbang.top/projects/ugsu2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban Metabolism and Self-purification</title>
+      <link>https://xzbang.top/projects/ums2025/</link>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://xzbang.top/projects/ums2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban Expansion from a Network Perspective</title>
+      <link>https://xzbang.top/projects/uenp2023/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://xzbang.top/projects/uenp2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban Expansion under Shrinking Population</title>
+      <link>https://xzbang.top/projects/uesp2023/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://xzbang.top/projects/uesp2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

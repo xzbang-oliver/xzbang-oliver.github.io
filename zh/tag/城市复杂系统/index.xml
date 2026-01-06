@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>城市复杂系统 | Zhibang Xu</title>
+    <title>城市复杂系统 | </title>
     <link>https://xzbang.top/zh/tag/%E5%9F%8E%E5%B8%82%E5%A4%8D%E6%9D%82%E7%B3%BB%E7%BB%9F/</link>
       <atom:link href="https://xzbang.top/zh/tag/%E5%9F%8E%E5%B8%82%E5%A4%8D%E6%9D%82%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" />
     <description>城市复杂系统</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 31 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 04 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://xzbang.top/media/icon_hu1891283c0db53db90cb1ff74b6b58309_3434_512x512_fill_lanczos_center_3.png</url>
       <title>城市复杂系统</title>
@@ -13,10 +13,23 @@
     </image>
     
     <item>
+      <title>Global consistency of urban scaling evidenced by remote sensing</title>
+      <link>https://xzbang.top/zh/publication/pnasn2025/</link>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://xzbang.top/zh/publication/pnasn2025/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Settlement scaling law reveals population-land tensions in 7000&#43; African urban agglomerations</title>
-      <link>https://xzbang.top/zh/publication/hai2023/</link>
+      <link>https://xzbang.top/zh/publication/hi2023/</link>
       <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://xzbang.top/zh/publication/hai2023/</guid>
+      <guid>https://xzbang.top/zh/publication/hi2023/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
